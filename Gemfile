@@ -51,6 +51,8 @@ gem "bootsnap", require: false
 gem 'bootstrap', '~> 5.3.1'
 gem 'mini_racer'
 gem 'devise', '4.8.1'
+gem "font-awesome-sass", "~> 6.4.2"
+
 
 
 group :development, :test do
