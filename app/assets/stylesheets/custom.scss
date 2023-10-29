@@ -49,3 +49,7 @@ height: 100%;
     margin-right: .5rem;
     width: 10px;
 }
+
+.card::-webkit-scrollbar{
+    width: 0;
+}
